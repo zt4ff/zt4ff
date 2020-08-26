@@ -4,3 +4,6 @@
 [![Linkedin Connect](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwasegun-kayode-07879b1aa/)
 
 ## About me! :nerd_face:
+- :heart: I am fascinated by frontend technologies
+- :octocat: You can ask me about software testing testing
+- :dog: Fun Facts about me: I am a lover of cartoons
