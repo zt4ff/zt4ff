@@ -6,11 +6,11 @@ I love using porgramming skills to create solutions. I am a software engineer. I
 
 ## Latest Articles
 <!-- HASHNODE:START -->
+- [Free Resources to Learn About Software Testing](https://blog.zt4ff.dev/free-resources-to-learn-about-software-testing)
 - [Things I noticed after using Vim for the first time in one week](https://blog.zt4ff.dev/things-i-noticed-after-using-vim-for-the-first-time-in-one-week)
 - [Scheduling tasks in NodeJS with cron job](https://blog.zt4ff.dev/scheduling-tasks-in-nodejs-with-cron-job)
 - [NodeJS Desktop Automation with RobotJS, &lpar;but with a program that could get you h̶i̶r̶e̶d̶ fired😄&rpar;](https://blog.zt4ff.dev/nodejs-desktop-automation-with-robotjs-but-with-a-program-that-could-get-you-hired-fired)
 - [Parsing Node Command-Line Arguments](https://blog.zt4ff.dev/parsing-node-command-line-arguments)
-- [Creating your First Command Line NPM package](https://blog.zt4ff.dev/creating-your-first-command-line-npm-package)
 <!-- HASHNODE:END -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zt4ff&theme=radical)
