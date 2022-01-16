@@ -6,11 +6,11 @@ I love using porgramming skills to create solutions. I am a software engineer. I
 
 ## Latest Articles
 <!-- HASHNODE:START -->
+- [Automated Workflows: Sending your form response to Discord](https://blog.zt4ff.dev/automated-workflows-sending-your-form-response-to-discord)
 - [Playwright Tutorial for Beginners 10 - Configuration](https://blog.zt4ff.dev/playwright-tutorial-for-beginners-10-configuration)
 - [Playwright Tutorial for Beginners 9 - Assertions](https://blog.zt4ff.dev/playwright-tutorial-for-beginners-9-assertions)
 - [Playwright Tutorial for Beginners 8 - Screenshots](https://blog.zt4ff.dev/playwright-tutorial-for-beginners-8-screenshots)
 - [Playwright Tutorial For Beginners 7 - Videos](https://blog.zt4ff.dev/playwright-tutorial-for-beginners-7-videos)
-- [Playwright Tutorial for Beginners 6 - Demo 1](https://blog.zt4ff.dev/playwright-tutorial-for-beginners-6-demo-1)
 <!-- HASHNODE:END -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zt4ff&theme=radical)
