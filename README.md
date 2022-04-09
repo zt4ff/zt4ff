@@ -6,11 +6,11 @@ I love using porgramming skills to create solutions. I am a software engineer. I
 
 ## Latest Articles
 <!-- HASHNODE:START -->
+- [Running scripts on boot in Linux using systemd](https://blog.zt4ff.dev/running-scripts-on-boot-in-linux-using-systemd)
 - [How To Test a Node.js Module with JavaScript using Mocha and Assert](https://blog.zt4ff.dev/how-to-test-a-nodejs-module-with-javascript-using-mocha-and-assert)
 - [I tried to find MongoDB connection strings over 1000 public GitHub repositories](https://blog.zt4ff.dev/i-tried-to-find-mongodb-connection-strings-over-1000-public-github-repositories)
 - [How To Create Files Faster in Visual Studio Code With a Command](https://blog.zt4ff.dev/how-to-create-files-faster-in-visual-studio-code-with-a-command)
 - [Automated Workflows: Sending your form response to Discord](https://blog.zt4ff.dev/automated-workflows-sending-your-form-response-to-discord)
-- [Playwright Tutorial for Beginners 10 - Configuration](https://blog.zt4ff.dev/playwright-tutorial-for-beginners-10-configuration)
 <!-- HASHNODE:END -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zt4ff&theme=radical)
