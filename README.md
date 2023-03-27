@@ -1,5 +1,5 @@
 ## Hi there, I am Kayode 👋
-I am always learning new stuffs and always trying to create solutions. 
+I am always learning new stuff and always trying to create solutions. 
 
 You can find me writing on my [blog](https://blog.zt4ff.dev)
 
