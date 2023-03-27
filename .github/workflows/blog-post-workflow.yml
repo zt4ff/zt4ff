@@ -1,18 +1,14 @@
-name: Lastest Hashnode Blog Post
+name: Latest blog post workflow
 on:
-  schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
-  workflow_dispatch:
-
+  schedule: # Run workflow automatically
+    - cron: "0 * * * *" # Runs every hour, on the hour
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest Hashnode blog posts
+    name: Update README with latest blog posts
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name: "HASHNODE"
-          commit_message: "Updated readme with the latest Hashnode Blog data"
+          max_post_count: 10
           feed_list: "https://blog.zt4ff.dev/rss.xml"
